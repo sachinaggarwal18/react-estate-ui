@@ -87,14 +87,14 @@ nav {
         }
 
         .register {
-            background-color: violet;
+            background-color: rgb(90, 176, 213);
             border-radius: 5px;
             transition: all 0.3s ease; /* Adding transition */
 
             &:hover {
-                border: 3px solid violet;
+                border: 3px solid rgb(90, 176, 213);;
                 background-color: white;
-                color: violet; /* Change text color on hover */
+                color: rgb(90, 176, 213);; /* Change text color on hover */
             }
         }
 
